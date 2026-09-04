@@ -1,4 +1,4 @@
-## Hi there 👋 I`m Jesper
+## Hi there 👋
 
+My name is Jesper
 I study IT and information systems at UiA
-My hobby is football, and my favourite team is Manchester United
